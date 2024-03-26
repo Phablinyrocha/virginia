@@ -1,1 +1,2 @@
-print("Ola Virginia")
+print("Olá Virginia")
+x = input("Vitoooor:")
